@@ -45,9 +45,9 @@ npm install
 ```
 
 ### 3. Add Environment Variable
-Create a .env file in the root directory and add:
-VITE_API_URL = your_openweathermap_api_url
-VITE_API_KEY = your_openweathermap_api_key
+Create a .env file in the root directory and add:  
+VITE_API_URL = your_openweathermap_api_url  
+VITE_API_KEY = your_openweathermap_api_key  
 
 ### 4. Start the Dev Server
 ```bash
