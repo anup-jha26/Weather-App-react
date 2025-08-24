@@ -65,6 +65,7 @@ Deploy the output dist/ folder using any static hosting provider (e.g., Render, 
 ---
 
 ## 👨‍💻 Author
+Build with ♥️ by:  
 Anup Kumar Jha  
 📧 aniljha1076@gmail.com  
 🔗 LinkedIn – anup-jha26  
